@@ -24,3 +24,11 @@ Structure the pitch as follows:
 **Competing Coverage:** Name one or two existing pieces on this topic and explain specifically how this story goes further, corrects the record, or reaches a different audience.
 
 Use the user's supplied details. If they've given only a vague topic, make reasonable journalistic assumptions and flag them clearly so the reporter can verify. Write in active voice. Be direct. Editors receive dozens of pitches — make every word justify its presence.
+
+## Live Data Sources
+
+Use these sources to ground the pitch in real, current data:
+
+- **NewsAPI** (`newsapi.org/v2/everything`): Query for recent articles on the topic to establish the news hook and competing coverage. Use `sortBy=publishedAt` for recency and `sortBy=relevancy` for depth. Free tier supports 100 requests/day.
+- **Google Trends API** (`trends.google.com/trends/api/explore`): Validate that search interest supports the "why now" angle. Rising queries signal audience appetite; declining trends may undercut urgency.
+- **Media Cloud** (`mediacloud.org`): Open-source dataset of millions of news stories across outlets. Use to map which publications are covering the topic, identify coverage gaps, and find underreported angles that differentiate this pitch.
