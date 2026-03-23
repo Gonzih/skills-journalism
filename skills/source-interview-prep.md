@@ -27,3 +27,11 @@ Produce the following:
 **Closing Ask:** Draft a specific closing question or request — often the most important ask in an interview (e.g., documents, introductions to other sources, on-the-record confirmation of a key fact).
 
 Tailor all questions to the specific source and story context provided. Prioritize questions that only this source can answer — not questions that could be answered by a press release.
+
+## Live Data Sources
+
+Use these resources to build source background and identify expert contacts:
+
+- **ProfNet / HARO patterns**: ProfNet (profnet.prnewswire.com) and Help A Reporter Out (helpareporter.com) connect journalists with expert sources. Search by beat keyword to find academics, practitioners, and spokespeople who have already signaled willingness to talk.
+- **Academic expert databases**: Use Google Scholar (`scholar.google.com`), SSRN (`ssrn.com`), and university faculty directories to identify researchers with peer-reviewed work on the story topic. Publication history signals depth of expertise; recent papers signal current relevance.
+- **LinkedIn advanced search patterns**: Filter by title, institution, and geography to map stakeholders. Boolean operators (`"policy director" AND "housing" AND "Chicago"`) narrow to decision-makers with direct standing. Review endorsements and activity for recent public statements.

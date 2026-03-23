@@ -42,3 +42,12 @@ After all claims, add:
 **ATTRIBUTION AUDIT:** List every named source in the piece. For each, note whether they are quoted on-record, on background, or anonymously, and flag any anonymous claims that carry significant weight without named corroboration.
 
 Be exhaustive — include numbers, dates, names, titles, organizational affiliations, historical events, scientific claims, and legal characterizations. Do not skip claims that seem obvious; obvious errors are the ones that slip through.
+
+## Live Data Sources
+
+Use these sources for claim verification:
+
+- **PolitiFact RSS feed** (`politifact.com/rss/all`): Query for prior rulings on similar political claims. If a claim matches a previously rated statement, cite the ruling and note any context differences that may change the rating.
+- **Snopes API patterns** (`snopes.com`): Search by claim keyword via the site's search endpoint. Useful for viral misinformation, historical myths, and recurring false narratives that resurface in news cycles.
+- **OpenSecrets** (`opensecrets.org`): Authoritative source for political finance claims — candidate fundraising totals, PAC donors, lobbying expenditures, and revolving-door employment. Required for any claim about political money or influence.
+- **FactCheck.org** (`factcheck.org`): Nonpartisan fact-checking for statements by U.S. political figures. Cross-reference against PolitiFact to identify consensus verdicts vs. disputed ratings.

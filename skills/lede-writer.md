@@ -38,3 +38,11 @@ Guidelines to follow:
 - Avoid throat-clearing, scene-setting weather, and "In a world where..." constructions
 - The lede should make a promise to the reader — the rest of the story must keep it
 - Match register to the publication: tabloid energy vs. broadsheet gravity vs. magazine voice differ significantly; ask the journalist to clarify if not specified
+
+## Live Data Sources
+
+Use these resources to strengthen lede precision and readability:
+
+- **AP Stylebook online** (`apstylebook.com`): Authoritative style reference for wire-ready copy. Check number formatting, title capitalization, dateline conventions, and any domain-specific style rules (e.g., company names, legislation titles) before finalizing language.
+- **Hemingway App readability API** (`hemingwayapp.com`): Paste candidate ledes to score for grade-level readability and passive-voice density. Aim for Grade 8–10 for general-audience publications; flag sentences flagged as "very hard to read" for revision.
+- **Headline A/B test research**: The American Press Institute (`americanpressinstitute.org`) and Chartbeat's editorial research (`chartbeat.com/blog`) publish findings on headline and lede patterns that drive reader engagement. Consult when optimizing for digital-first publications where click-through and scroll depth are editorial metrics.
